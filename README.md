@@ -7,15 +7,6 @@ Welcome to my GitHub profile. I'm a passionate developer who loves to explore ne
 - 🔭 I’m currently working on How AI can be used in the AV industry.
 - 🌱 I’m currently learning Machine learning and how LLMs work.
 
-## My Skills
-
-Here are some of the technologies and tools I work with:
-
-- **Languages:** Python, JavaScript 
-- **Frameworks:** [e.g., React, Django, Spring Boot]
-- **Tools:** Git, Visual Studio code
-- **Databases:** MySQL
-
 ## GitHub Stats
 
 ![imirembe's GitHub stats](https://github-readme-stats.vercel.app/api?username=imirembe&show_icons=true&theme=radical)
