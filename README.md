@@ -1,6 +1,5 @@
 Hi, I'm ikenna
 
-- Learning to solve problems through code.
 - Currently working on how AI can be used in the AV industry.
 - Web development, Machine learning and how LLMs work.
 
