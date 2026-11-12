@@ -2,6 +2,7 @@ Hi, I'm ikenna
 
 - Currently working on how AI can be used in the AV industry.
 - Web development, Machine learning and how LLMs work.
+- Developing Rorrim an iOS app for mental health research
 
 Contact me 
 - LinkedIn - [https://www.linkedin.com/in/ikenaa/](https://www.linkedin.com/in/ikenaa/)
